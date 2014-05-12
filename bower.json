@@ -1,0 +1,23 @@
+{
+  "name": "abhishekmunie.com Assets",
+  "description": ".",
+  "version": "0.0.0",
+  "authors": [
+    {
+      "name": "Abhishek Munie",
+      "email": "projects@abhishekmunie.com",
+      "homepage": "http://abhishekmunie.com"
+    }
+  ],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abhishekmunie/assets.abhishekmunie.com.git"
+  },
+  "dependencies": {
+    "jquery": "latest",
+    "jquery-legacy": "jquery#1",
+    "jquery-modern": "jquery#2"
+  },
+  "private": "true"
+}
