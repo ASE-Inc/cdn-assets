@@ -1,6 +1,6 @@
 {
-  "name": "abhishekmunie.com Assets",
-  "description": ".",
+  "name": "mySite-assets",
+  "description": "Assets for mySite project",
   "version": "0.0.0",
   "authors": [
     {
@@ -12,12 +12,26 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/abhishekmunie/assets.abhishekmunie.com.git"
+    "url": "git://github.com/ASE-Inc/mySite-assets.git"
   },
   "dependencies": {
+    "angular": "latest",
+    "angular-1.x.x": "angular#1",
+    "angular-1.2.x": "angular#1.2",
     "jquery": "latest",
     "jquery-legacy": "jquery#1",
-    "jquery-modern": "jquery#2"
+    "jquery-modern": "jquery#2",
+    "jquery-1.x.x": "jquery#1",
+    "jquery-2.x.x": "jquery#2",
+    "modernizr": "latest",
+    "modernizr-2.x.x": "modernizr#2",
+    "modernizr-2.7.x": "modernizr#2.7",
+    "bootstrap": "latest",
+    "bootstrap-3.x.x": "bootstrap#3",
+    "font-awesome": "latest",
+    "font-awesome-4.x.x": "font-awesome#4",
+    "cufon": "latest",
+    "cufon-1.09": "cufon#v1.09"
   },
   "private": "true"
 }
