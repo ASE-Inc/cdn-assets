@@ -31,7 +31,24 @@
     "font-awesome": "latest",
     "font-awesome-4.x.x": "font-awesome#4",
     "cufon": "latest",
-    "cufon-1.09": "cufon#v1.09"
+    "cufon-1.09": "cufon#v1.09",
+    "typeahead.js": "latest",
+    "typeahead.js-0.x.x": "typeahead.js#0",
+    "typeahead.js-0.10.x": "typeahead.js#0.10",
+    "magicsuggest": "latest",
+    "magicsuggest-2.x.x": "magicsuggest#2",
+    "x-editable": "latest",
+    "x-editable-1.x.x": "x-editable#1",
+    "x-editable-1.5.x": "x-editable#1.5",
+    "angular-xeditable": "latest",
+    "angular-xeditable-0.x.x": "angular-xeditable#0",
+    "angular-xeditable-0.1.x": "angular-xeditable#0.1",
+    "angular-bootstrap": "latest",
+    "angular-bootstrap-0.x.x": "angular-bootstrap#0",
+    "angular-bootstrap-0.11.x": "angular-bootstrap#0.11",
+    "webshim": "latest",
+    "webshim-1.x.x": "webshim#1",
+    "webshim-1.12.x": "webshim#1.12"
   },
   "private": "true"
 }
